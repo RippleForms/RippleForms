@@ -12,8 +12,8 @@
 
 Read on or watch [video](https://youtu.be/If8In1ZwHlQ)
  1. Fill the form in the [link](https://forms.gle/pEQc4voG2EZNXEBh7) (This form shows an example of how a lawyer can use Rippleforms to get bookings for a consultation call )
- 2. After filling the form you should see a "You can pay using the following link" with a link. Click on the link
- 3. You will be taken to a checkout page where you will have to connect your wallet and make the payment. If your payment goes through you should see "Tx Confirmed"
+ 2. After filling and submitting the form you should see a "You can pay using the following link" with a link. Click on the link
+ 3. You will be taken to a checkout page where you will have to connect your Gem wallet and make the payment. If your payment goes through you should see "Tx Confirmed"
  4. After paying go to this [spreadsheet](https://docs.google.com/spreadsheets/d/1-VKBSKjVPnGRVzJmhxQSug7tYSFxtZtU4Nx6bUUygo8/edit?resourcekey#gid=985907363)  to verify your payment and form entries (The customer will NOT have access this sheet in prod. Only the merchant aka the lawyer will be able to view it)
 
 ## Test as a Merchant (Needs GCP account)
@@ -35,6 +35,8 @@ Read on or watch [video](https://youtu.be/1olnRq-pUZ0?t=25)
  
  7.  Now click on the three dots at the top right corner of the page and click on Script Editor.
  8. In the file named "Code .gs" copy and paste the code in Google Forms > code .gs from the repo
+ 9. Replace "Your Service email" in code.gs with your own service email that you created while setting up Sheets API.
+You now have a store. Follow the previous steps to test it out. 
  9.   Create a new HTML file by clicking on the "+" button next to Files section and name it sidebar.html
  10.  Copy the code from sidebar.html in Google Forms > sidebar.html from the repo and paste it 
  11. Click save and run code .gs
