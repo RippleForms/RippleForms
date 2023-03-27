@@ -63,7 +63,7 @@ npm install <all necessary packages>
 node script.js
 ```
 You should see 'Server is running on port 8000' 
-### Replace "Your Service email" in code.gs with your own service email that you created while setting up Sheets API.
+
 You now have a store. Follow the previous steps to test it out. 
 ## Made with:
  - [Google Apps Script](https://developers.google.com/apps-script)
