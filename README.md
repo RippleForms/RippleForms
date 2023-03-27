@@ -14,7 +14,7 @@ Read on or watch [video](https://youtu.be/If8In1ZwHlQ)
  1. Fill the form in the [link](https://forms.gle/pEQc4voG2EZNXEBh7) (This form shows an example of how a lawyer can use Rippleforms to get bookings for a consultation call )
  2. After filling and submitting the form you should see a "You can pay using the following link" with a link. Click on the link
  3. You will be taken to a checkout page where you will have to connect your [Gem wallet](https://gemwallet.app/) and make the payment. If your payment goes through you should see "Tx Confirmed"
- 4. After paying go to this [spreadsheet](https://docs.google.com/spreadsheets/d/1-VKBSKjVPnGRVzJmhxQSug7tYSFxtZtU4Nx6bUUygo8/edit?resourcekey#gid=985907363)  to verify your payment and form entryg
+ 4. After paying go to this [spreadsheet](https://docs.google.com/spreadsheets/d/1-VKBSKjVPnGRVzJmhxQSug7tYSFxtZtU4Nx6bUUygo8/edit?resourcekey#gid=985907363)  to verify your payment and form entry
 
 ## Test as a Merchant (Needs GCP account)
 **A merchant is someone who creates the form and circulates it to their customers**
