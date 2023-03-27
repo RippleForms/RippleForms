@@ -36,7 +36,6 @@ Read on or watch [video](https://youtu.be/1olnRq-pUZ0?t=25)
  7.  Now click on the three dots at the top right corner of the page and click on Script Editor.
  8. In the file named "Code .gs" copy and paste the code in Google Forms > code .gs from the repo
  9. Replace "Your Service email" in code.gs with your own service email that you created while setting up Sheets API.
-You now have a store. Follow the previous steps to test it out. 
  9.   Create a new HTML file by clicking on the "+" button next to Files section and name it sidebar.html
  10.  Copy the code from sidebar.html in Google Forms > sidebar.html from the repo and paste it 
  11. Click save and run code .gs
