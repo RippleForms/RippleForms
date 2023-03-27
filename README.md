@@ -78,7 +78,7 @@ You now have a store. Follow the previous steps to test it out.
  ## Known Issues
  - Can only accept XRP
  - Not secure. Currently you need to copy paste your wallet address to make the form payable. Working on this. Will make the user sign and connect wallet
- - Apps script makes the sheet visible to everyone with link. Will make this secure by making Google Sheets read the sheet
+ - Apps script makes the sheet visible to everyone with link. Will make this secure by making only Google Sheets API read the sheet
  - Buggy sometimes. While reading the total XRP, sometimes it doesn't take in the whole amount. Working on this.
 
 
